@@ -261,7 +261,7 @@
 
 (= max-delay* 10)
 (= canreply-threshold* 1)
-(= invisible-threshold* 2)
+(= invisible-threshold* 1)
 
 ; Assumes 'cansee' check is performed elsewhere
 (def cancomment (user i)
